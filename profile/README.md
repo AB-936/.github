@@ -21,4 +21,4 @@ $ git status
 On branch main
 Always shipping. Nothing to wait for.
 ```
-# Small group. Sweden. We get shit done.
+Small group. Sweden. We get shit done.
