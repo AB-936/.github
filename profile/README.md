@@ -30,6 +30,6 @@ Always shipping. Nothing to wait for.
 
 <div align="center">
 
-Three people. Sweden. We get shit done.
+Small group. Sweden. We get shit done.
 
 </div>
