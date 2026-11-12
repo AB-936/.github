@@ -1,10 +1,4 @@
-<div align="center">
-
-# 936
-
-**Live in beta.**
-
-</div>
+# AB 936
 
 ```console
 $ cat whiteboard.txt
@@ -27,9 +21,4 @@ $ git status
 On branch main
 Always shipping. Nothing to wait for.
 ```
-
-<div align="center">
-
-Small group. Sweden. We get shit done.
-
-</div>
+# Small group. Sweden. We get shit done.
